@@ -43,9 +43,6 @@ The CI workflow is already defined in the `.github/workflows directory`. Pushing
 - This project serves as a demonstration of CI/CD concepts using a pre-existing application.
 - The specific details of the "House Renting System" application are not covered in this repository.
 
-## Contributing
-Contributions are welcome! If you have any improvements or bug fixes, feel free to open a pull request.
-
 ## License
 This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for details.
 
